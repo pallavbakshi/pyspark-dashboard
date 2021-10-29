@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Interactive Development ID
+.idea/
+
+# Data folders
+data/
+logs/
+
+# mac
+.DS_Store
+
